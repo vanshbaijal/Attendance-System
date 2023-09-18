@@ -1,0 +1,29 @@
+.student-form {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem;
+    max-width: 400px;
+  }
+  
+  .student-form h2 {
+    margin-top: 0;
+  }
+  
+  .student-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .student-form input {
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+  }
+  
+  .student-form button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  

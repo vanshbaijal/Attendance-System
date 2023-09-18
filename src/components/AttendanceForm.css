@@ -1,0 +1,22 @@
+.attendance-form {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+  max-width: 400px;
+}
+
+.attendance-form h2 {
+  margin-top: 0;
+}
+
+.attendance-form p {
+  margin: 0.5rem 0;
+}
+
+.attendance-button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
